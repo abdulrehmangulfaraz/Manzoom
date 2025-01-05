@@ -53,7 +53,7 @@ We welcome contributions to improve this project. Feel free to fork the reposito
 - Grateful for the collaboration and support in bringing this project to life.
 
 ## Contact
-For questions or feedback, please reach out via LinkedIn or create an issue in the repository.
+For questions or feedback, please reach out via [LinkedIn](https://www.linkedin.com/in/abdulrehman-gulfaraz) or create an issue in the repository.
 
 ---
 Thank you for exploring **Manzoom**! Together, let’s celebrate the beauty of Urdu literature. 🥀
