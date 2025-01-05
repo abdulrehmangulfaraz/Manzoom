@@ -27,7 +27,7 @@ Manzoom is a **Literary Management System** inspired by Rekhta, developed in **C
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/manzoom.git
+   git clone https://github.com/abdulrehmangulfaraz/manzoom.git
    ```
 2. Navigate to the project directory:
    ```bash
