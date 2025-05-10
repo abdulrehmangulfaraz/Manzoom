@@ -55,6 +55,11 @@ We welcome contributions to improve this project. Feel free to fork the reposito
 ## Contact
 For questions or feedback, please reach out via [LinkedIn](https://www.linkedin.com/in/abdulrehman-gulfaraz) or create an issue in the repository.
 
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).  
+You are free to use, modify, and distribute it with proper credit.
+
 ---
 Thank you for exploring **Manzoom**! Together, let’s celebrate the beauty of Urdu literature. 🥀
 
